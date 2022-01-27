@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/io/properties.h
+
+/home/der-erlkonig/test/onvif/modules/io/properties.c
+properties.h
+/home/der-erlkonig/test/onvif/modules/io/properties.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

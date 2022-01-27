@@ -17,4 +17,4 @@ install(FILES README.txt version.txt DESTINATION onvif/share)
 install(FILES include/onvif.h DESTINATION onvif/include)
 
 enable_testing()
-add_subdirectory(test)
+add_subdirectory(test)  

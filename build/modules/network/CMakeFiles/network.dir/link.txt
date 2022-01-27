@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libnetwork.so.0 -o libnetwork.so.0.0.2 CMakeFiles/network.dir/network.c.o 

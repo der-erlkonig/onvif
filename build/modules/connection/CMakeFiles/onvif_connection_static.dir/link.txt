@@ -1,0 +1,2 @@
+/usr/bin/ar qc libonvif_connection.a  CMakeFiles/onvif_connection_static.dir/device.c.o CMakeFiles/onvif_connection_static.dir/discovery.c.o CMakeFiles/onvif_connection_static.dir/media.c.o CMakeFiles/onvif_connection_static.dir/ptz.c.o CMakeFiles/onvif_connection_static.dir/soap.c.o
+/usr/bin/ranlib libonvif_connection.a

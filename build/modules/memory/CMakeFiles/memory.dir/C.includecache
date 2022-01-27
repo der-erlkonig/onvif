@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/memory/memory.h
+stddef.h
+-
+
+/home/der-erlkonig/test/onvif/modules/memory/memory.c
+memory.h
+/home/der-erlkonig/test/onvif/modules/memory/memory.h
+pthread.h
+-
+stdlib.h
+-
+string.h
+-
+

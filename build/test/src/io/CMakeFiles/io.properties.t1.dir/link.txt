@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/io.properties.t1.dir/test_properties1.c.o  -o io.properties.t1  -Wl,-rpath,/home/der-erlkonig/test/onvif/build/modules/io ../../../modules/io/libconfig_io.so.0.0.2 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libonvif_management.so.0 -o libonvif_management.so.0.0.2 CMakeFiles/onvif_management.dir/bits.c.o CMakeFiles/onvif_management.dir/manage.c.o CMakeFiles/onvif_management.dir/procedure.c.o  -Wl,-rpath,/home/der-erlkonig/test/onvif/build/modules/cJSON: ../cJSON/libcjson.so.0.0.2 

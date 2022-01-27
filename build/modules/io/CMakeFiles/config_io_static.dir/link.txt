@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconfig_io.a  CMakeFiles/config_io_static.dir/properties.c.o
+/usr/bin/ranlib libconfig_io.a

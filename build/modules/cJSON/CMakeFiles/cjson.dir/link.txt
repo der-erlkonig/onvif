@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libcjson.so.0 -o libcjson.so.0.0.2 CMakeFiles/cjson.dir/cJSON.c.o 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libonvif_management.a  CMakeFiles/onvif_management_static.dir/bits.c.o CMakeFiles/onvif_management_static.dir/manage.c.o CMakeFiles/onvif_management_static.dir/procedure.c.o
+/usr/bin/ranlib libonvif_management.a
